@@ -1,1 +1,3 @@
-# snake
+Snake
+
+Third game practice project 
