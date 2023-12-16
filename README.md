@@ -1,3 +1,3 @@
 Snake
 
-Third game practice project 
+Third practice project in month of game making
